@@ -33,3 +33,5 @@ Note that while the below all describe UCAN at the time they were written, the s
 * [Coding Earth: Authorizing Users without a Backend (2020)](https://www.youtube.com/watch?v=qDLsUkaOjyQ)
 * [UCAN (do) secure key management in a browser (2021)](https://vimeo.com/manage/videos/484309705?embedded=true&source=video_title&owner=127263708)
 * [Lightweight Credentials with UCAN (2021)](https://fission.codes/blog/lightweight-credentials-ucan/)
+
+![](https://raw.githubusercontent.com/ucan-wg/.github/main/assets/Reclining_UCAN_Toucan_transparent.png)
