@@ -1,4 +1,4 @@
-# Welcome to the UCAN Working Group :tada:
+# Welcome to the UCAN Working Group :tickets::zap:
 
 User Controlled Authorization Networks (UCANs) are a decentralized, [capabilities model](https://en.wikipedia.org/wiki/Capability-based_security) authorization tokens.
 
@@ -10,7 +10,7 @@ Please see the [specs](#specs) for more detail.
 
 ## Specs
 
-* [Main Container & Capabilities Format](https://github.com/ucan-wg/spec)
+* [Main Container & Capabilities Format](https://github.com/ucan-wg/spec) (start here!)
   
 ## Libraries
 
@@ -25,3 +25,11 @@ Please see the [specs](#specs) for more detail.
   * [Fixtures](https://github.com/ucan-wg/spec/tree/main/fixtures)
   * [Fixture Generator](https://github.com/ucan-wg/ucan-fixture-gen)
 * [Website](https://github.com/ucan-wg/ucan-check)
+
+## Presentations
+
+Note that while the below all describe UCAN at the time they were written, the spec has undergone updates. Please refer to the [latest specs](#spec) if you have questions.
+
+* [Coding Earth: Authorizing Users without a Backend (2020)](https://www.youtube.com/watch?v=qDLsUkaOjyQ)
+* [UCAN (do) secure key management in a browser (2021)](https://vimeo.com/manage/videos/484309705?embedded=true&source=video_title&owner=127263708)
+* [Lightweight Credentials with UCAN (2021)](https://fission.codes/blog/lightweight-credentials-ucan/)
