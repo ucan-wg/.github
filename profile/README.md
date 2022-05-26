@@ -10,7 +10,8 @@ Please see the [specs](#specs) for more detail.
 
 ## Specs
 
-* [Main Container & Capabilities Format](https://github.com/ucan-wg/spec) (start here!)
+* [Core Token & Capabilities Format](https://github.com/ucan-wg/spec) (🏁 start here!)
+* [HTTP Header Transport](https://github.com/ucan-wg/http-header-transport)
   
 ## Libraries
 
