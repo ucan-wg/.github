@@ -32,8 +32,9 @@ Please see the [specs](#specs) for more detail.
 
 Note that while the below all describe UCAN at the time they were written, the spec has undergone updates. Please refer to the [latest specs](#spec) if you have questions.
 
-* [Coding Earth: Authorizing Users without a Backend (2020)](https://www.youtube.com/watch?v=qDLsUkaOjyQ)
-* [UCAN (do) secure key management in a browser (2021)](https://vimeo.com/manage/videos/484309705?embedded=true&source=video_title&owner=127263708)
+* [Connecting IPFS users and permissions to DIDs with UCAN (2022)](https://www.youtube.com/watch?v=grec5KQeU2U)
 * [Lightweight Credentials with UCAN (2021)](https://fission.codes/blog/lightweight-credentials-ucan/)
+* [UCAN (do) secure key management in a browser (2021)](https://vimeo.com/manage/videos/484309705)
+* [Coding Earth: Authorizing Users without a Backend (2020)](https://www.youtube.com/watch?v=qDLsUkaOjyQ)
 
 ![](https://raw.githubusercontent.com/ucan-wg/.github/main/assets/Reclining_UCAN_Toucan_transparent.png)
