@@ -16,10 +16,10 @@ Please see the [specs](#specs) for more detail.
   
 ## Libraries
 
+* [TypeScript](https://github.com/ucan-wg/ts-ucan) ([NPM](https://www.npmjs.com/package/ucans))
+* [Rust](https://github.com/cdata/rs-ucan) ([Crate](https://lib.rs/crates/ucan))
 * [Golang](https://github.com/ucan-wg/go-ucan)
 * [Haskell](https://github.com/fission-suite/fission/tree/main/hs-ucan)
-* [Rust](https://github.com/cdata/rs-ucan) ([Crate](https://lib.rs/crates/ucan))
-* [TypeScript](https://github.com/ucan-wg/ts-ucan) ([NPM](https://www.npmjs.com/package/ucans))
   
 ## Tools
 
