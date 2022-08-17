@@ -12,7 +12,7 @@ Please see the [specs](#specs) for more detail.
 
 * [Core UCAN Token & Capabilities Format](https://github.com/ucan-wg/spec) (🏁 start here!)
 * [AWAKE: UCAN-based mutually authenticated secure tunnel](https://github.com/ucan-wg/awake)
-* [UCAN IPLD Schema](https://github.com/ucan-wg/ucan-ipld/) (encoding agnostic formats)
+* [UCAN IPLD Schema & Canonicalization](https://github.com/ucan-wg/ucan-ipld/)
 * [UCAN as Bearer Header](https://github.com/ucan-wg/ucan-as-bearer-token)
   
 ## Libraries
