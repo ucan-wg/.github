@@ -21,6 +21,8 @@ Please see the [specs](#specs) for more detail.
 * [Rust](https://github.com/ucan-wg/rs-ucan) ([Crate](https://lib.rs/crates/ucan))
 * [Golang](https://github.com/ucan-wg/go-ucan)
 * [Haskell](https://github.com/fission-suite/fission/tree/main/hs-ucan)
+* [UCAN IPLD in JS](https://github.com/ipld/js-dag-ucan) ([NPM](https://www.npmjs.com/package/@ipld/dag-ucan))
+* [UCAN-RPC in JS](https://github.com/web3-storage/ucanto/)
   
 ## Tools
 
