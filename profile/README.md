@@ -8,12 +8,23 @@ Please see the [specs](#specs) for more detail.
 
 # Directory
 
-## Specs
+## Core
 
-* [Core UCAN Token & Capabilities Format](https://github.com/ucan-wg/spec) (🏁 start here!)
+* [UCAN Token & Capabilities Format](https://github.com/ucan-wg/spec) (🏁 start here!)
+
+### Encodings
+
+* [UCAN IPLD Schema](https://github.com/ucan-wg/ucan-ipld/)
+* [UCAN JWT Canonicalization](https://github.com/ucan-wg/canonicalization/)
+
+### Interoperation
+
+* [UCAN Bearer Token HTTP Header](https://github.com/ucan-wg/ucan-as-bearer-token)
+* [UCAN/CACAO Integration](https://github.com/ucan-wg/ucan-cacao)
+
+### UCAN-Enabled Specs
+
 * [AWAKE: UCAN-based mutually authenticated secure tunnel](https://github.com/ucan-wg/awake)
-* [UCAN IPLD Schema & Canonicalization](https://github.com/ucan-wg/ucan-ipld/)
-* [UCAN as Bearer Header](https://github.com/ucan-wg/ucan-as-bearer-token)
   
 ## Libraries
 
