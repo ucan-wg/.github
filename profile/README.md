@@ -4,7 +4,9 @@ User Controlled Authorization Networks (UCANs) are decentralized, [capabilities 
 
 UCAN is a trustless, secure, local-first, user-originated authorization and revocation scheme. UCAN is designed to be very flexible: you can use it offline, online, fully P2P, federated, or with central servers.
 
-Please see the [specs](#specs) for more detail.
+Please see the [specs](https://github.com/ucan-wg/spec/) for more detail on implementation.
+
+If you're interested in contributing to the development of UCANs, check out the [GitHub Discussions](https://github.com/ucan-wg/spec/discussions).
 
 # Directory
 
