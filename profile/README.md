@@ -54,3 +54,9 @@ Note that while the below all describe UCAN at the time they were written, the s
 * [Coding Earth: Authorizing Users without a Backend (2020)](https://www.youtube.com/watch?v=qDLsUkaOjyQ)
 
 ![](https://raw.githubusercontent.com/ucan-wg/.github/main/assets/Reclining_UCAN_Toucan_transparent.png)
+
+## Community
+
+* [Discord Server](https://discord.gg/zSfgeHhKxA)
+* [GitHub Discussions](https://github.com/ucan-wg/spec/discussions)
+* [Community Website](https://ucan.xyz)
