@@ -44,6 +44,9 @@ If you're interested in contributing to the development of UCANs, check out the 
   * [Fixture Generator](https://github.com/ucan-wg/ucan-fixture-gen)
 * [Website](https://github.com/ucan-wg/ucan-check)
 
+## Roadmap
+* [Starmap](https://starmap.site/roadmap/github.com/fission-codes/Fission-Starmap/issues/69#view=simple)
+
 ## Presentations
 
 Note that while the below all describe UCAN at the time they were written, the spec has undergone updates. Please refer to the [latest specs](#spec) if you have questions.
