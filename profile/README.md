@@ -10,19 +10,28 @@ If you're interested in contributing to the development of UCANs, check out the 
 
 # Directory
 
-## Core
+## Core specifications
 
 * [UCAN Token & Capabilities Format](https://github.com/ucan-wg/spec) (🏁 start here!)
+  * [UCAN delegation](https://github.com/ucan-wg/delegation)
+  * [UCAN invocation](https://github.com/ucan-wg/invocation)
+  * [UCAN revocation](https://github.com/ucan-wg/revocation)
+  * [UCAN promises](https://github.com/ucan-wg/promise)
 
-### Encodings
+## Additional specifications
 
-* [UCAN IPLD Schema](https://github.com/ucan-wg/ucan-ipld/)
-* [UCAN JWT Canonicalization](https://github.com/ucan-wg/canonicalization/)
+* [UCAN container](https://github.com/ucan-wg/container)
 
-### Interoperation
+## Outdated specifications
 
-* [UCAN Bearer Token HTTP Header](https://github.com/ucan-wg/ucan-as-bearer-token)
-* [UCAN/CACAO Integration](https://github.com/ucan-wg/ucan-cacao)
+Below are listed specifications that are still relevant but should be updated to match the v1 core specifications.
+
+* [UCAN HTTP Bearer token](https://github.com/ucan-wg/ucan-http-bearer-token)
+
+## Obsolete specifications
+
+* [UCAN IPLD](https://github.com/ucan-wg/ucan-ipld)
+* [UCAN JWT Canonicalization](https://github.com/ucan-wg/canonicalization)
 
 ### UCAN-Enabled Specs
 
