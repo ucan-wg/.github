@@ -53,8 +53,8 @@ Below are listed specifications that are still relevant but should be updated to
   * [Fixture Generator](https://github.com/ucan-wg/ucan-fixture-gen)
 * [Website](https://github.com/ucan-wg/ucan-check)
 
-## Roadmap
-* [Starmap](https://starmap.site/roadmap/github.com/fission-codes/Fission-Starmap/issues/69#view=simple)
+## Project Notes
+* [2025-07-16: spec v1, 3 implementations, upcoming goals, & more](https://github.com/ucan-wg/.github/issues/6)
 
 ## Presentations
 
